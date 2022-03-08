@@ -1,1 +1,1 @@
-ADITYA SURYANDARU - 24060121140105 - Praktikum 2
+Aditya Suryandaru - 24060121140105 - Praktikum 2
