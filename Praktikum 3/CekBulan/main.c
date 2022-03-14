@@ -1,7 +1,7 @@
 // Nama         : Aditya Suryandaru
 // NIM          : 24060121140105
 // Tanggal      : 14 Maret 2022
-// Nama Program : CekHari.c
+// Nama Program : CekBulan.c
 /* Deskripsi    : menampilkan nama bulan untuk inputan nomor 1 - 12 dan menampilkan inputan salah jika tidak dalam rentang 1 -12*/
 
 #include <stdio.h>
