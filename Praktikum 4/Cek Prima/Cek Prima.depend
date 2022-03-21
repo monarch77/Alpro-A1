@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647868056 source:d:\undip\praktikum\algoritma dan pemrograman\pertemuan 4\cek prima\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
